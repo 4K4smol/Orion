@@ -1,0 +1,51 @@
+{
+    "/api": {
+      "target": "http://localhost:8000",
+      "secure": false,
+      "changeOrigin": true,
+      "logLevel": "debug"
+    },
+    "/register": {
+      "target": "http://localhost:8000",
+      "secure": false,
+      "changeOrigin": true,
+      "logLevel": "debug"
+    },
+    "/login": {
+      "target": "http://localhost:8000",
+      "secure": false,
+      "changeOrigin": true,
+      "logLevel": "debug"
+    },
+    "/logout": {
+      "target": "http://localhost:8000",
+      "secure": false,
+      "changeOrigin": true,
+      "logLevel": "debug"
+    },
+    "/send-test-email": {
+      "target": "http://localhost:8000",
+      "secure": false,
+      "changeOrigin": true,
+      "logLevel": "debug"
+    },
+    "/verify-email": {
+      "target": "http://localhost:8000",
+      "secure": false,
+      "changeOrigin": true,
+      "logLevel": "debug"
+    },
+    "/forgot-password": {
+      "target": "http://localhost:8000",
+      "secure": false,
+      "changeOrigin": true,
+      "logLevel": "debug"
+    },
+    "/reset-password": {
+      "target": "http://localhost:8000",
+      "secure": false,
+      "changeOrigin": true,
+      "logLevel": "debug"
+    }
+  }
+  

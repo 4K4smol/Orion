@@ -1,0 +1,9 @@
+<div class="container">
+    <h1>Dashboard</h1>
+    <div *ngFor="let constellation of constellations" class="constellation-card">
+      <h3>{{ constellation.name }}</h3>
+      <p>{{ constellation.description }}</p>
+      <img [src]="constellation.image_url" alt="{{ constellation.name }}" width="200">
+      <!-- Agrega más detalles según sea necesario -->
+    </div>
+  </div>
