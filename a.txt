@@ -1,4 +1,4 @@
-
+jH3uQY3Ky!Drk@c
 2. Configuración del Backend con Laravel
 Estructura del Proyecto:
 Crea modelos para Usuarios, Constelaciones y Estrellas.
